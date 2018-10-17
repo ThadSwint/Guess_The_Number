@@ -1,0 +1,9 @@
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\bin\Debug\Ch14_TS.exe.config
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\bin\Debug\Ch14_TS.exe
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\bin\Debug\Ch14_TS.pdb
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\Ch14_TS.GuessGame.resources
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\Ch14_TS.Properties.Resources.resources
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\Ch14_TS.exe
+C:\Users\Thad\source\repos\Ch14_TS\Ch14_TS\obj\Debug\Ch14_TS.pdb
